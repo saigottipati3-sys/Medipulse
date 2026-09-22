@@ -1,1 +1,2 @@
-# healthguard
+# Medipulse
+MediPulse AI is a safety-first Android health assistant that helps users understand the urgency of their symptoms and decide the next appropriate step. Users enter their symptoms, duration, and severity, while optional wellness data such as sleep, stress, activity, and screen time provides additional context. The AI returns a clear urgency level, doctor summary, and recommended next action. For high-risk situations, MediPulse AI activates an emergency flow and prepares a concise message for a trusted contact. The system is designed to support triage and guidance, not replace a licensed doctor or provide a medical diagnosis.
