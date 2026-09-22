@@ -1,0 +1,7 @@
+{
+  "name": "MediPulse AI",
+  "description": "AI health assistant with symptom triage, wellness context builder, hospital locator, appointment booking, and emergency SOS alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

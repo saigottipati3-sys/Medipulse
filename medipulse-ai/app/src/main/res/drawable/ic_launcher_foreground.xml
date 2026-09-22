@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Medical Shield/Cross base in white with rounded corners -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M48,27 L60,27 C62.2,27 64,28.8 64,31 L64,44 L77,44 C79.2,44 81,45.8 81,48 L81,60 C81,62.2 79.2,64 77,64 L64,64 L64,77 C64,79.2 62.2,81 60,81 L48,81 C45.8,81 44,79.2 44,77 L44,64 L31,64 C28.8,64 27,62.2 27,60 L27,48 C27,45.8 28.8,44 31,44 L44,44 L44,31 C44,28.8 45.8,27 48,27 Z" />
+    <!-- Dynamic AI Pulse Line cutting through in high-contrast cyan -->
+    <path
+        android:pathData="M23,54 L40,54 L45,41 L51,66 L57,46 L62,59 L67,54 L85,54"
+        android:strokeWidth="3.6"
+        android:strokeColor="#0284C7"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+    <!-- Pulse Center Spark / Heart Node -->
+    <path
+        android:pathData="M57,46m-2.2,0a2.2,2.2 0,1,1 4.4,0a2.2,2.2 0,1,1 -4.4,0"
+        android:fillColor="#38BDF8" />
+</vector>
